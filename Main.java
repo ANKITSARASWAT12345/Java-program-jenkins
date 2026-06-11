@@ -6,5 +6,6 @@ class Main{
         System.out.println("Output from Java Program");
         System.out.println(new Date());
         System.out.println("This is Ankit");
+        System.out.println("Jenkins setup perfectly");
     }
 }
