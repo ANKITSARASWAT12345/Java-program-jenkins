@@ -7,5 +7,8 @@ class Main{
         System.out.println(new Date());
         System.out.println("This is Ankit");
         System.out.println("Jenkins setup perfectly");
+
+        Student student=new Student();
+        student.greeting();
     }
 }
